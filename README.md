@@ -1,7 +1,7 @@
 # First-year-Acad-Repository-2022-23
 # SCSET Cabinet First-Year Learning Resources Repository
 
-Welcome to the SCSET Cabinet First-Year Learning Resources Repository! This repository is dedicated to providing a comprehensive collection of learning materials, lecture notes, reading resources, and frequently asked questions (FAQs) for all subjects offered in the first year at our university.
+Welcome to the SCSET Cabinet First-Year Learning Resources Repository! This repository is dedicated to providing a comprehensive collection of learning materials, lecture notes, reading resources, and Previous Year Questions (PYQs) for all subjects offered in the first year at our university.
 
 ## Legal Usage
 
