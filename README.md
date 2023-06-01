@@ -1,5 +1,9 @@
 # First-year-Acad-Repository-2022-23
-  ![image_2023-06-01_061420466-removebg-preview (2)](https://github.com/samyaksgupta/First-year-Academic-Repository-2022-23/assets/127541694/d8c3f348-a917-401d-a9ae-9d06ee836be0)
+
+<p align="center">
+  <img src="https://github.com/samyaksgupta/First-year-Academic-Repository-2022-23/assets/127541694/d8c3f348-a917-401d-a9ae-9d06ee836be0" alt="Image Description">
+</p>
+
 # SCSET Cabinet First-Year Learning Resources Repository
 
 Welcome to the SCSET Cabinet First-Year Learning Resources Repository! This repository is dedicated to providing a comprehensive collection of learning materials, lecture notes, reading resources, and Previous Year Questions (PYQs) for all subjects offered in the first year at our university.
